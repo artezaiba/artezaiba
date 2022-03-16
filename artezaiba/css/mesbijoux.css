@@ -1,0 +1,113 @@
+.navbar{
+  background-color: rgba(204, 198, 184, 80);
+  opacity: 0.95;
+}
+.header{
+  padding-bottom: 332px;
+}
+.presentation{
+  background-color: #AAAABC;
+}
+.dropdown-panier{
+  padding-left: 20px;
+}
+.collier{
+  background: rgb(59,66,112);
+  background: linear-gradient(90deg, rgba(59,66,112,1) 0%, rgba(30,90,94,1) 50%, rgba(59,66,112,1) 100%);
+  /* background: rgb(59,66,112);
+  background: radial-gradient(circle, rgba(59,66,112,1) 0%, rgba(50,96,92,1) 52%, rgba(59,66,112,1) 100%); */
+}
+.boucles{
+  background: rgb(59,66,112);
+  background: linear-gradient(90deg, rgba(59,66,112,1) 0%, rgba(30,90,94,1) 50%, rgba(59,66,112,1) 100%);
+}
+.bracelets{
+  background: rgb(59,66,112);
+  background: linear-gradient(90deg, rgba(59,66,112,1) 0%, rgba(30,90,94,1) 50%, rgba(59,66,112,1) 100%);
+}
+
+.bagues{
+  background: rgb(59,66,112);
+  background: linear-gradient(90deg, rgba(59,66,112,1) 0%, rgba(30,90,94,1) 50%, rgba(59,66,112,1) 100%);
+}
+
+.contact{
+  background: rgb(59,66,112);
+  background: linear-gradient(90deg, rgba(59,66,112,1) 0%, rgba(30,90,94,1) 50%, rgba(59,66,112,1) 100%);
+}
+
+.boucles-container, .bagues-container, .colliers-container, .bracelets-container, {
+  padding-top: 70px;
+}
+
+.conditions{
+  background: rgb(59,66,112);
+  background: linear-gradient(90deg, rgba(59,66,112,1) 0%, rgba(30,90,94,1) 50%, rgba(59,66,112,1) 100%);
+  text-align: center;
+}
+.presentation-text{
+  text-align: center;
+}
+.bouton-paypal{
+  text-align: center;
+  margin-bottom: 5rem;
+}
+.bijoux-prix{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.titre{
+  text-shadow: -6px 3px black;
+  text-align: center;
+}
+.intro{
+}
+
+.image-bijoux{
+  border-radius: 50px;
+  -webkit-box-shadow: 5px 5px 14px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 5px 5px 14px 0px rgba(0,0,0,0.75);
+  box-shadow: 5px 5px 14px 0px rgba(0,0,0,0.75);
+}
+
+.image-container{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.info-bijoux{
+  vertical-align:middle;
+  display: table-cell;
+}
+.bijoux-titre{
+  font-size: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.bijoux-texte{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.image-dynamique {
+  position: relative;
+  display: inline-block;
+}
+.image-dynamique .img-top {
+  display: none;
+  position: absolute;
+  /* top: 0; */
+  left: 0;
+  z-index: 99;
+}
+
+.image-dynamique:hover .img-top {
+  display: inline;
+}
+
+.line {
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
+.navbar-custom {
+    background-color: #CCC6B8;
+}
